@@ -3,7 +3,7 @@
 An expert-level, high-performance, and responsive Flutter web portfolio application built with a premium **Nordic Deep Emerald & Mint** enterprise theme. This system simulates dashboard-driven components representing 13+ years of large-scale ERP architecture, logistics, HRM automation, and core database tuning.
 
 ## 🚀 Live Demo
-🌐 **[Live Application Link](https://web.app)** *(Replace with your actual Firebase URL)*
+🌐 **[Live Application Link](https://github.io)**
 > **Note for Visitors:** This link provides a compiled, secure preview of the application architecture. The raw source code logic remains restricted for enterprise confidentiality.
 
 ---
@@ -18,7 +18,7 @@ An expert-level, high-performance, and responsive Flutter web portfolio applicat
 ## 🛠️ Portfolio Workspace Highlights
 
 ### ⚡ Core Architecture (`HomePage`)
-- Dynamic live metric counters showcasing 13+ years of production experience, 52+ managed team structures, and 20+ enterprise modules.
+- Dynamic live metric counters showcasing 13+ years of production experience, 52+ managed team structures, and 20+ enterprise modules [source: 1, 1.2.7].
 - Responsive wrap layouts tailored for mobile, tablet, and desktop viewports.
 
 ### 🏛️ Executive Profile Tracker (`ProfilePage`)
